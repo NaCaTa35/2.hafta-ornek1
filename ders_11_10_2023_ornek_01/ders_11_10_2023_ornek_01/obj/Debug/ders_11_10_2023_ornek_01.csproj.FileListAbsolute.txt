@@ -1,0 +1,11 @@
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\bin\Debug\ders_11_10_2023_ornek_01.exe.config
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\bin\Debug\ders_11_10_2023_ornek_01.exe
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\bin\Debug\ders_11_10_2023_ornek_01.pdb
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\obj\Debug\ders_11_10_2023_ornek_01.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\obj\Debug\ders_11_10_2023_ornek_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\obj\Debug\ders_11_10_2023_ornek_01.Form1.resources
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\obj\Debug\ders_11_10_2023_ornek_01.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\obj\Debug\ders_11_10_2023_ornek_01.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\obj\Debug\ders_11_10_2023_ornek_01.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\obj\Debug\ders_11_10_2023_ornek_01.exe
+C:\Users\Mustafa\Desktop\PD_I_23_24\ders_11_10_2023_ornek_01\ders_11_10_2023_ornek_01\obj\Debug\ders_11_10_2023_ornek_01.pdb
