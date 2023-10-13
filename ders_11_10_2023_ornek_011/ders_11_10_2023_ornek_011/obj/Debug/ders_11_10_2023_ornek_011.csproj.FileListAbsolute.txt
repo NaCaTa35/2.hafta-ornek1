@@ -1,0 +1,29 @@
+C:\Users\Lab-1\source\repos\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\bin\Debug\ders_11_10_2023_ornek_011.exe.config
+C:\Users\Lab-1\source\repos\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\bin\Debug\ders_11_10_2023_ornek_011.exe
+C:\Users\Lab-1\source\repos\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\bin\Debug\ders_11_10_2023_ornek_011.pdb
+C:\Users\Lab-1\source\repos\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.csprojAssemblyReference.cache
+C:\Users\Lab-1\source\repos\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.Form1.resources
+C:\Users\Lab-1\source\repos\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.Properties.Resources.resources
+C:\Users\Lab-1\source\repos\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.csproj.GenerateResource.cache
+C:\Users\Lab-1\source\repos\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.exe
+C:\Users\Lab-1\source\repos\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.pdb
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\bin\Debug\ders_11_10_2023_ornek_011.exe.config
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\bin\Debug\ders_11_10_2023_ornek_011.exe
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\bin\Debug\ders_11_10_2023_ornek_011.pdb
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.Form1.resources
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.Properties.Resources.resources
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.exe
+C:\Users\HP\Desktop\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.pdb
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\bin\Debug\ders_11_10_2023_ornek_011.exe.config
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\bin\Debug\ders_11_10_2023_ornek_011.exe
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\bin\Debug\ders_11_10_2023_ornek_011.pdb
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.exe
+C:\Users\HP\Documents\Visual Studio 2019\ders_11_10_2023_ornek_011\ders_11_10_2023_ornek_011\obj\Debug\ders_11_10_2023_ornek_011.pdb
